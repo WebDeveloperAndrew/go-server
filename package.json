@@ -1,0 +1,19 @@
+{
+  "name": "go-server",
+  "version": "1.0.0",
+  "description": "A go server backend using sgf files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDeveloperAndrew/go-server.git"
+  },
+  "author": "Andrew Irwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDeveloperAndrew/go-server/issues"
+  },
+  "homepage": "https://github.com/WebDeveloperAndrew/go-server#readme"
+}
